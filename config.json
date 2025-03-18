@@ -1,0 +1,16 @@
+{
+  "launcherVer": 1,
+  "launcherUrl": "https://your-server.com/launcher.exe",
+  "games": [
+    {
+      "name": "mygame",
+      "startCmd": "start mygame.exe",
+      "clientVer": 1,
+      "clientUrl": "https://your-server.com/mygame-client.7z",
+      "patchUrls": [
+        "https://your-server.com/mygame-patch1.7z",
+        "https://your-server.com/mygame-patch2.7z"
+      ]
+    }
+  ]
+}
